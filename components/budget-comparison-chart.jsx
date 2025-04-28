@@ -71,7 +71,7 @@ export function BudgetComparisonChart() {
     <Card>
       <CardHeader className="flex flex-row items-center justify-between">
         <div>
-          <CardTitle>Budget vs. Actual</CardTitle>
+          <CardTitle>Budget vs.Actual</CardTitle>
           <CardDescription>Compare your planned budget with actual spending</CardDescription>
         </div>
         <div className="flex gap-2">
